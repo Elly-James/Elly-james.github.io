@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Smoking Mirror
+email: ellyjames1999@gmail.com
+author: Elly-James
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,16 +40,15 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Published Work (cleft) 2017-{2023} {Elly James}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I can't wait to be part of this programe. Everyday i dream of diving deep into tech and 
+  creating alot of stuff using different programs and this is a good opportunity for me.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+favicon: "" # KOMSEMPIRE 
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
